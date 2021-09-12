@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "noEmitOnError": true,
+    "target": "ES3",
+    "noImplicitAny": true,
+    "alwaysStrict": true,
+    "allowUnreachableCode": false,
+    "strictNullChecks": true,
+    "exactOptionalPropertyTypes": true
+  },
+  "exclude": [
+    "*.js"
+  ]
+}
